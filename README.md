@@ -1,0 +1,2 @@
+# Quantization
+Tipos de quantização
